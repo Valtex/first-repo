@@ -1,6 +1,6 @@
 # first-repo
 first test repo
-testin
+testing
 1
 2
 3
